@@ -1,2 +1,1 @@
-# VOTFGameSite
-VOTFGameSite
+index.html
